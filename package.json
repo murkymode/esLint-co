@@ -1,7 +1,7 @@
 {
   "name": "fec",
   "version": "1.0.0",
-  "description": "Front End Capstone",
+  "description": "E-Commerce Application",
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack --mode development -w",
